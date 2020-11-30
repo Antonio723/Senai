@@ -1,3 +1,5 @@
+// Para um número qualquer, informar se este é maior ou menor que dez, ou o próprio dez
+
 class Ex02{
 	public static void main(String args[]){
 		int num = 5;
